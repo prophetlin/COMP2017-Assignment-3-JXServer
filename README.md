@@ -223,3 +223,6 @@ As you may note, input bytes are encoded to variable length bit codes ("variable
 Remember to comment or uncomment in `common.h` file.
 
 <img src='https://i.loli.net/2020/12/20/ThsQWcE214ynYbN.png' alt='ThsQWcE214ynYbN'/>
+
+# DO NOT PLAGIARISE! UNIVERSITY OF SYDNEY TAKES PLAGIARISM SERIOUSLY!!
+* In the case of assignments being reuse, please do not copy! you will learn nothing from copying!
